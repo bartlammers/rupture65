@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name split65-rescue)(type Legacy)(uri ${KIPRJMOD}/split65left-rescue.lib)(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/../Type-C.pretty/Type-C.lib)(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/../random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name Split65)(type KiCad)(uri ${KIPRJMOD}/../Split65.pretty)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/../Type-C.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/../keyboard_parts.pretty)(options "")(descr ""))
+)
